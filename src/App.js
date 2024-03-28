@@ -1,9 +1,15 @@
-import React from 'react';
+import React , { useEffect }from 'react';
 import projectsData from './projects.json';
-import './App.css'; // Custom CSS file for additional styling
+import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
+
 function App() {
+
+    useEffect(() => {
+        document.title = "Projects | gopikrishna.ai";
+        }, []);
+
     return (
         <div className="container">
             <h1 className="mt-4 mb-4">Projects</h1>
