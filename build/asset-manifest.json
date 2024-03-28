@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/projects.gopikrishna.ai/static/css/main.4b08197c.css",
-    "main.js": "/projects.gopikrishna.ai/static/js/main.da889076.js",
-    "static/js/453.666a0815.chunk.js": "/projects.gopikrishna.ai/static/js/453.666a0815.chunk.js",
-    "index.html": "/projects.gopikrishna.ai/index.html",
-    "main.4b08197c.css.map": "/projects.gopikrishna.ai/static/css/main.4b08197c.css.map",
-    "main.da889076.js.map": "/projects.gopikrishna.ai/static/js/main.da889076.js.map",
-    "453.666a0815.chunk.js.map": "/projects.gopikrishna.ai/static/js/453.666a0815.chunk.js.map"
+    "main.css": "/static/css/main.4b08197c.css",
+    "main.js": "/static/js/main.1fb5daa6.js",
+    "static/js/453.666a0815.chunk.js": "/static/js/453.666a0815.chunk.js",
+    "index.html": "/index.html",
+    "main.4b08197c.css.map": "/static/css/main.4b08197c.css.map",
+    "main.1fb5daa6.js.map": "/static/js/main.1fb5daa6.js.map",
+    "453.666a0815.chunk.js.map": "/static/js/453.666a0815.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4b08197c.css",
-    "static/js/main.da889076.js"
+    "static/js/main.1fb5daa6.js"
   ]
 }

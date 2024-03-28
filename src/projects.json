@@ -3,84 +3,84 @@
     {
       "title": "ISeeBetter: AI-Driven Duplicate Issue Detection for Open Source Contributions",
       "description": "Fine-tuned a BERT transformer on the PyTorch GitHub repository to identify existing open issues contextually during new issue creation, reducing duplicates and optimizing contributor efforts.",
-      "image": "/images/projects/llm.png",
+      "image": "llm.png",
       "url": "https://github.com/gopikrsmscs/iSeBetter",
       "tags": ["LSTM", "Tensorflow", "Time Series Forecasting"]
     },
     {
       "title": "Stock Price Prediction Transformer",
       "description": "The project uses a simplified Transformer architecture to forecast stock prices based on historical price data. It includes data loading, preprocessing, model training, prediction, and evaluation phases, with an emphasis on understanding the Transformer's application in time series forecasting.",
-      "image": "images/projects/transformer.webp",
+      "image": "transformer.webp",
       "url": "https://github.com/gopikrsmscs/stock-price-prediction-transformer",
       "tags": ["LSTM", "Tensorflow", "Time Series Forecasting"]
     },
     {
       "title": "Stock Price Prediction using LSTM",
       "description": "The project uses a simplified lstm architecture to forecast stock prices based on historical price data. It includes data loading, preprocessing, model training, prediction, and evaluation phases, with an emphasis on understanding the Transformer's application in time series forecasting.",
-      "image": "images/projects/lstm.png",
+      "image": "lstm.png",
       "url": "https://github.com/gopikrsmscs/stock-price-prediction-lstm",
       "tags": ["LSTM", "Tensorflow", "Time Series Forecasting"]
     },
     {
       "title": "Eigenface-PCA Facial Recognition System",
       "description": "Implemented eigenface analysis for facial recognition, calculating the mean face and performing PCA from scratch, achieving 85% accuracy rate for face reconstruction with k = 15.",
-      "image": "/images/projects/Project2.png",
+      "image": "/Project2.png",
       "url": "",
       "tags": ["PCA", "Computer Vision"]
     },
     {
       "title": "Academic Lease: Connecting Students for Lease Transfers",
       "description": "Engineered AcademicLease.com, a social platform for connecting students across 1100+ US universities for lease transfers, including automated CI/CD pipeline for Google Cloud Platform deployment.",
-      "image": "/images/projects/academic_lease.png",
+      "image": "/academic_lease.png",
       "url": "https://github.com/gopikrsmscs/academiclease",
       "tags": ["Google Cloud", "Flask", "Python"]
     },
     {
       "title": "Leet-Classifier: Automatic Organizing of LeetCode Submissions",
       "description": "Developed 'Leet-Classifier,' a Python-based tool that automates classification and organization of LeetCode submissions by parsing metadata for intelligent sorting, aiding in programming interview preparation.",
-      "image": "/images/projects/leet_classifier.png",
+      "image": "/leet_classifier.png",
       "url": "https://github.com/gopikrsmscs/leet-classifier",
       "tags": ["Open Source", "Python"]
     },
     {
       "title": "Presidential Speeches Search Engine",
       "description": "Implemented a search engine on a corpus of US presidential inaugural addresses, generating TF-IDF vectors and using cosine similarity for query responses.",
-      "image": "/images/projects/tiny_search.png",
+      "image": "/tiny_search.png",
       "url": "https://github.com/gopikrsmscs/search-engine",
       "tags": ["Data Mining", "TF-IDF", "Python"]
     },
     {
       "title": "Python Library for Multi-Layer Neural Networks",
       "description": "Developed a Python library with NumPy for constructing and training neural networks, processing inputs to efficiently output weights, mean error, and predictions.",
-      "image": "/images/projects/Project1.png",
+      "image": "/Project1.png",
       "url": "",
       "tags": ["Machine Learning", "Neural Networks"]
     },
     {
       "title": "High-Fidelity MNIST Digit Generation with GANs",
       "description": "Developed and trained a Generative Adversarial Network (GAN) on the MNIST dataset, achieving optimal error rates and accurately classifying digits with a discriminator model and generating digit images with a generator model.",
-      "image": "/images/projects/gan_mnsit.png",
+      "image": "/gan_mnsit.png",
       "url": "",
       "tags": ["Neural Networks", "GenAI", "Tensorflow"]
     },
     {
       "title": "Enhancing CIFAR-10 Performance with Transfer Learning",
       "description": "Designed and trained a custom CNN model on the CIFAR-10 dataset, assessing improvement through transfer learning with a pre-trained VGG-16 model.",
-      "image": "/images/projects/transfer_learning.png",
+      "image": "/transfer_learning.png",
       "url": "https://github.com/gopikrsmscs/MachineLearningModels/blob/main/CIFAR_CNN.ipynb",
       "tags": ["Neural Networks", "Tensorflow"]
     },
     {
       "title": "Vector Clocks for Event Ordering in Distributed Systems",
       "description": "Created a vector clock mechanism from scratch for event sequencing in distributed environments, ensuring precise coordination across systems.",
-      "image": "/images/projects/vector_clock.png",
+      "image": "/vector_clock.png",
       "url": "https://github.com/gopikrsmscs/event-ordering",
       "tags": ["Distributed Systems", "Vector Clocks", "RPC"]
     },
     {
       "title": "Comprehensive Wallet Management System with Spring Boot",
       "description": "Designed and implemented a comprehensive Spring Boot application featuring a suite of financial transactions, including user registration, login, wallet funding, peer-to-peer money transfers, transaction reversal, and passbook generation. Integrated with MySQL for robust data management and persistence.",
-      "image": "/images/projects/wallet_managment.png",
+      "image": "/wallet_managment.png",
       "url": "https://github.com/gopikrsmscs/wallet-management",
       "tags": ["SpringBoot", "Java", "MySql"]
     }
